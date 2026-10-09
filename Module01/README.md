@@ -1,13 +1,6 @@
 # Module 1
 
 
-> When you start editing this file, remove this description.
->
-> Usually the first things you have to document are some inspirations hinting at what
-> you might be able to build in this class, a personal profile description regarding
-> programming expertise, previous MCU knowledge, creative qualities, and expectations
-
-Module description
 
 ## Task Inspirations
 
@@ -15,8 +8,9 @@ Module description
 - Inspiration 2
 
 ## Task Personal Profile
-
+Name: Atem Favour
 ## Task What is IoT
+Meaning: Internet of things 
 
 Domains and included areas:
 
@@ -26,15 +20,17 @@ Domains and included areas:
 
 Commonly used (data) protocols:
 
--
--
+-SQL
+-Oracle
 
 Typical devices (appliance or micro controller):
 
--
--
+- Arduino 
+- Raspberry pi
 
 Challenges:
+- python programming
+- motivations 
 
 -
 -
